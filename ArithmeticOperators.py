@@ -6,7 +6,7 @@ print(4==5)
 print(7>=7)
 print(7!=9)
 print(5<9)
-
+print(10=12)
 print(7>6 and 6>=6)
 print(3!=3 or 4==4)
 print(not 5>2)
