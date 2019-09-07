@@ -1,0 +1,15 @@
+print(8>8)
+print(6<=6)
+print(5<5)
+print(10!=10)
+print(4==5)
+print(7>=7)
+print(7!=9)
+print(5<9)
+
+print(7>6 and 6>=6)
+print(3!=3 or 4==4)
+print(not 5>2)
+print(5>6)
+print(not 5<3 and True or 6<=6 and not False)
+
